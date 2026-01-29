@@ -40,7 +40,7 @@ Please copy this repo's OpenCompass model implementations in `opencompass/models
 
 ### 6) Register models in OpenCompass
 
-Edit the following file in the OpenCompass repo you cloned:
+Revise the following file in the OpenCompass repo you cloned:
 
 - `opencompass/opencompass/models/__init__.py`
 
