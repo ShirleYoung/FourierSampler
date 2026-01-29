@@ -5,7 +5,7 @@ from opencompass.tasks import OpenICLInferTask, OpenICLEvalTask
 from opencompass.models import LLaDACausalLM
 
 with read_base():
-    from opencompass.configs.datasets.humaneval.humaneval_gen import humaneval_datasets 
+    from opencompass.configs.datasets.humaneval.deprecated_humaneval_gen_ff7054 import humaneval_datasets 
 
 
 datasets = []
